@@ -22,7 +22,7 @@ class User():
         # Methode
     def getnom(self):
         return self.nom    
-
+        # il faut utiliser une methode pour capte le p prive
     def getCode(self):
         return self._code
     
